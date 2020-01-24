@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ECE627_Project.Base64">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Base64.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECE627_Project.Controller">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgEgACAAAAACQAAEAAAAAAAhABAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECE627_Project.DES">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAApAAAIAAAAAAAASBABAAICBAAAAQQAQgBkBCIAA=</HashCode>
+      <FileName>DES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECE627_Project.HashingSHA">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HashingSHA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECE627_Project.TDES">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAgAAAAAAAAAQAGABAAAAAAAQAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>TDES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECE627_Project.UserData">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAEAAAAAAAAAAAAAAACCAAAAggAAAA=</HashCode>
+      <FileName>UserData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECE627_Project.WebsiteData">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAEBAAAAAQAgAAEAAACAQAAAgEAAAA=</HashCode>
+      <FileName>WebsiteData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
